@@ -23,6 +23,8 @@
 #include "questao21.h"
 #include "questao22.h"
 #include "questao23.h"
+#include "questao24.h"
+
 
 
 int main(){
@@ -37,7 +39,7 @@ int main(){
     //questao07();
     //questao08();
     //questao09();
-    questao10();
+    //questao10();
     //questao11();
     //questao12();
     //questao13();
@@ -51,5 +53,6 @@ int main(){
     //questao21();
     //questao22();
     //questao23();
+    //questao24();
     return 0;
 }
