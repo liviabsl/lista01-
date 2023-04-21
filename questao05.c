@@ -12,7 +12,7 @@ void entrada05(float *salarioBase, int *dependentes){
 
 void processamento05(float *salarioBase, float *salarioBruto, int *dependentes){
     *salarioBruto = *salarioBase + (*dependentes * 32);
-    *salarioBruto = *salarioBruto - (*salarioBruto-27.50)/100;
+    *salarioBruto = *salarioBruto - ((*salarioBruto-27.50)/100);
 
 }
 
