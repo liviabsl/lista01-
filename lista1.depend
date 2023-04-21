@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1682043242 source:/home/liviaoliveira/Documents/lista1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+	"questao06.h"
+	"questao07.h"
+	"questao08.h"
+	"questao09.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+	"questao14.h"
+	"questao15.h"
+	"questao16.h"
+	"questao17.h"
+	"questao18.h"
+	"questao19.h"
+	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+
+1682011013 /home/liviaoliveira/Documents/lista1/questao01.h
+
+1682011013 source:/home/liviaoliveira/Documents/lista1/questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682014512 source:/home/liviaoliveira/Documents/lista1/questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682011664 /home/liviaoliveira/Documents/lista1/questao02.h
+
+1682014645 source:/home/liviaoliveira/Documents/lista1/questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682014613 /home/liviaoliveira/Documents/lista1/questao03.h
+
+1682017568 source:/home/liviaoliveira/Documents/lista1/questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1682018531 /home/liviaoliveira/Documents/lista1/questao04.h
+
+1682023269 source:/home/liviaoliveira/Documents/lista1/questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
+1682018680 /home/liviaoliveira/Documents/lista1/questao05.h
+
+1682023035 source:/home/liviaoliveira/Documents/lista1/questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1682023076 /home/liviaoliveira/Documents/lista1/questao06.h
+
+1682023511 source:/home/liviaoliveira/Documents/lista1/questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1682023511 /home/liviaoliveira/Documents/lista1/questao07.h
+
+1682023797 source:/home/liviaoliveira/Documents/lista1/questao08.c
+	<stdio.h>
+	<stdlib.h>
+	"questao08.h"
+
+1682023797 /home/liviaoliveira/Documents/lista1/questao08.h
+
+1682024235 source:/home/liviaoliveira/Documents/lista1/questao09.c
+	<stdio.h>
+	<stdlib.h>
+	"questao09.h"
+
+1682024229 /home/liviaoliveira/Documents/lista1/questao09.h
+
+1682043340 source:/home/liviaoliveira/Documents/lista1/questao10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	"questao10.h"
+
+1682025657 /home/liviaoliveira/Documents/lista1/questao10.h
+
+1682026843 source:/home/liviaoliveira/Documents/lista1/questao11.c
+	<stdio.h>
+	<stdlib.h>
+	"questao11.h"
+
+1682026775 /home/liviaoliveira/Documents/lista1/questao11.h
+
+1682027092 source:/home/liviaoliveira/Documents/lista1/questao12.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"questao12.h"
+
+1682027092 /home/liviaoliveira/Documents/lista1/questao12.h
+
+1682027885 source:/home/liviaoliveira/Documents/lista1/questao13.c
+	<stdio.h>
+	<stdlib.h>
+	"questao13.h"
+
+1682027321 /home/liviaoliveira/Documents/lista1/questao13.h
+
+1682027885 /home/liviaoliveira/Documents/lista1/questao14.h
+
+1682028262 source:/home/liviaoliveira/Documents/lista1/questao14.c
+	<stdio.h>
+	<stdlib.h>
+	"questao14.h"
+
+1682029543 source:/home/liviaoliveira/Documents/lista1/questao15.c
+	<stdio.h>
+	<stdlib.h>
+	"questao15.h"
+
+1682029543 /home/liviaoliveira/Documents/lista1/questao15.h
+
+1682030018 /home/liviaoliveira/Documents/lista1/questao16.h
+
+1682030127 source:/home/liviaoliveira/Documents/lista1/questao16.c
+	<stdio.h>
+	<stdlib.h>
+	"questao16.h"
+
+1682036891 source:/home/liviaoliveira/Documents/lista1/questao17.c
+	<stdio.h>
+	<stdlib.h>
+	"questao17.h"
+
+1682031283 /home/liviaoliveira/Documents/lista1/questao17.h
+
+1682036891 /home/liviaoliveira/Documents/lista1/questao18.h
+
+1682036909 source:/home/liviaoliveira/Documents/lista1/questao18.c
+	<stdio.h>
+	<stdlib.h>
+	"questao18.h"
+
+1682037635 /home/liviaoliveira/Documents/lista1/questao19.h
+
+1682037958 source:/home/liviaoliveira/Documents/lista1/questao19.c
+	<stdio.h>
+	<stdlib.h>
+	"questao19.h"
+
+1682041402 source:/home/liviaoliveira/Documents/lista1/questao20.c
+	<stdio.h>
+	<stdlib.h>
+	"questao20.h"
+
+1682040729 /home/liviaoliveira/Documents/lista1/questao20.h
+
+1682042103 /home/liviaoliveira/Documents/lista1/questao21.h
+
+1682042464 source:/home/liviaoliveira/Documents/lista1/questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1682042832 /home/liviaoliveira/Documents/lista1/questao22.h
+
+1682042863 source:/home/liviaoliveira/Documents/lista1/questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1682043047 /home/liviaoliveira/Documents/lista1/questao23.h
+
+1682043144 source:/home/liviaoliveira/Documents/lista1/questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
